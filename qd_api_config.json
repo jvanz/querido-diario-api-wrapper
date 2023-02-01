@@ -1,0 +1,8 @@
+{
+	"generateSourceCodeOnly": false,
+	"library": "urllib3",
+	"packageName" : "querido_diario",
+	"packageVersion" : "0.0.1",
+	"projectName" : "querido-diario"
+
+}
